@@ -13,7 +13,7 @@ El reto consiste en recrear el componente del Código QR lo más parecido posibl
 
 ### 🧩 Vista previa del proyecto
 
-![alt text](/QR-CodeComponent-main/public/VistaPrevia.png.png)
+![alt text](VistaPrevia.png)
 
 ---
 
