@@ -20,7 +20,7 @@ El reto consiste en recrear el componente del Código QR lo más parecido posibl
 ### 🔗 Enlaces del proyecto
 
 - **Repositorio en GitHub:** [https://github.com/arturocruz-0503/QR-Code-Component](https://github.com/)
-- **Sitio desplegado (opcional):** [https://axelrodriguez-dot.github.io/QR-CodeComponent/]
+
 
 ---
 
